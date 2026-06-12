@@ -1,0 +1,13 @@
+department,risk_category,total_students
+Business,High Risk,141
+Business,Low Risk,261
+Business,Medium Risk,123
+Engineering,High Risk,149
+Engineering,Low Risk,247
+Engineering,Medium Risk,95
+Health,High Risk,129
+Health,Low Risk,262
+Health,Medium Risk,100
+IT,High Risk,125
+IT,Low Risk,261
+IT,Medium Risk,107
